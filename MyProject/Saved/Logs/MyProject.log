@@ -6033,3 +6033,319 @@ Make sure 'OptionMenu_C' has been compiled for  Get Credits
 [2022.12.02-11.09.48:289][682]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2022.12.02-11.09.48:292][682]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
 [2022.12.02-11.09.48:312][683]LogPlayLevel: Display: Destroying online subsystem :Context_78
+[2022.12.02-11.13.24:428][912]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.12.02-11.13.24:434][912]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.12.02-11.13.24:434][912]PIE: New page: PIE session: Menu (2 gru 2022, 13:13:24)
+[2022.12.02-11.13.24:434][912]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_Menu
+[2022.12.02-11.13.24:435][912]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001030s)
+[2022.12.02-11.13.24:435][912]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/Menu.Menu to /Game/Scenes/UEDPIE_0_Menu.Menu (0.001060s)
+[2022.12.02-11.13.24:435][912]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.02-11.13.24:436][912]LogAIModule: Creating AISystem for world Menu
+[2022.12.02-11.13.24:436][912]LogPlayLevel: PIE: World Init took: (0.000765s)
+[2022.12.02-11.13.24:494][912]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2022.12.02-11.13.24:496][912]LogAudio: Display: Creating Audio Device:                 Id: 49, Scope: Unique, Realtime: True
+[2022.12.02-11.13.24:496][912]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.12.02-11.13.24:496][912]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.12.02-11.13.24:496][912]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.12.02-11.13.24:496][912]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.12.02-11.13.24:496][912]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2022.12.02-11.13.24:496][912]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.12.02-11.13.24:496][912]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2022.12.02-11.13.24:496][912]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.12.02-11.13.24:497][912]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.12.02-11.13.24:497][912]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.12.02-11.13.24:497][912]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.12.02-11.13.24:500][912]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.12.02-11.13.24:517][912]LogAudioMixer: Display: Using Audio Hardware Device DAEWOO-LCDTV (NVIDIA High Definition Audio)
+[2022.12.02-11.13.24:517][912]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.12.02-11.13.24:517][912]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.12.02-11.13.24:517][912]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.12.02-11.13.24:518][912]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=49
+[2022.12.02-11.13.24:518][912]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=49
+[2022.12.02-11.13.24:521][912]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=49
+[2022.12.02-11.13.24:521][912]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=49
+[2022.12.02-11.13.24:521][912]LogInit: FAudioDevice initialized.
+[2022.12.02-11.13.24:521][912]LogAudio: Display: Audio Device (ID: 49) registered with world 'Menu'.
+[2022.12.02-11.13.24:525][912]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2022.12.02-11.13.24:525][912]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_Menu.Menu up for play (max tick rate 60) at 2022.12.02-12.13.24
+[2022.12.02-11.13.24:525][912]LogWorld: Bringing up level for play took: 0.000268
+[2022.12.02-11.13.24:528][912]LogOnline: OSS: Created online subsystem instance for: :Context_79
+[2022.12.02-11.13.24:531][912]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.12.02-11.13.24:531][912]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2022.12.02-11.13.24:531][912]PIE: Server logged in
+[2022.12.02-11.13.24:532][912]PIE: Play in editor total start time 0,098 seconds.
+[2022.12.02-11.13.45:125][145]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.02-11.13.47:524][289]LogConfig: Applying CVar settings from Section [TextureQuality@0] File [Scalability]
+[2022.12.02-11.13.47:524][289]LogConfig: Set CVar [[r.Streaming.MipBias:16]]
+[2022.12.02-11.13.47:524][289]LogConfig: Set CVar [[r.Streaming.AmortizeCPUToGPUCopy:1]]
+[2022.12.02-11.13.47:524][289]LogConfig: Set CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:1]]
+[2022.12.02-11.13.47:524][289]LogConfig: Set CVar [[r.Streaming.Boost:0.3]]
+[2022.12.02-11.13.47:524][289]LogConfig: Set CVar [[r.MaxAnisotropy:0]]
+[2022.12.02-11.13.47:524][289]LogConfig: Set CVar [[r.VT.MaxAnisotropy:4]]
+[2022.12.02-11.13.47:524][289]LogConfig: Set CVar [[r.Streaming.PoolSize:400]]
+[2022.12.02-11.13.47:543][290]LogContentStreaming: Texture pool size now 400 MB
+[2022.12.02-11.14.00:333][ 57]LogConfig: Applying CVar settings from Section [TextureQuality@1] File [Scalability]
+[2022.12.02-11.14.00:333][ 57]LogConfig: Set CVar [[r.Streaming.MipBias:1]]
+[2022.12.02-11.14.00:333][ 57]LogConfig: Set CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.12.02-11.14.00:333][ 57]LogConfig: Set CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.12.02-11.14.00:333][ 57]LogConfig: Set CVar [[r.Streaming.Boost:1]]
+[2022.12.02-11.14.00:333][ 57]LogConfig: Set CVar [[r.MaxAnisotropy:2]]
+[2022.12.02-11.14.00:333][ 57]LogConfig: Set CVar [[r.Streaming.PoolSize:600]]
+[2022.12.02-11.14.00:384][ 60]LogContentStreaming: Texture pool size now 600 MB
+[2022.12.02-11.14.00:900][ 91]LogScript: Warning: Script Msg: The widget 'OptionMenu_C_0' was already added to the screen.
+[2022.12.02-11.14.00:900][ 91]LogScript: Warning: Last function called:
+	/Game/Blueprints/OptionMenu.OptionMenu_C.ExecuteUbergraph_OptionMenu
+
+[2022.12.02-11.14.00:901][ 91]LogNet: Browse: /Game/Scenes/Menu
+[2022.12.02-11.14.00:901][ 91]LogLoad: LoadMap: /Game/Scenes/Menu
+[2022.12.02-11.14.00:901][ 91]LogWorld: BeginTearingDown for /Game/Scenes/UEDPIE_0_Menu
+[2022.12.02-11.14.00:901][ 91]LogWorld: UWorld::CleanupWorld for Menu, bSessionEnded=true, bCleanupResources=true
+[2022.12.02-11.14.00:901][ 91]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.02-11.14.00:954][ 91]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.12.02-11.14.00:956][ 91]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2022.12.02-11.14.00:959][ 91]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_Menu
+[2022.12.02-11.14.00:960][ 91]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000913s)
+[2022.12.02-11.14.00:960][ 91]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/Menu.Menu to /Game/Scenes/UEDPIE_0_Menu.Menu (0.000949s)
+[2022.12.02-11.14.00:960][ 91]LogAudio: Display: Audio Device (ID: 49) registered with world 'Menu'.
+[2022.12.02-11.14.00:960][ 91]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.02-11.14.00:960][ 91]LogAIModule: Creating AISystem for world Menu
+[2022.12.02-11.14.00:961][ 91]LogPlayLevel: PIE: World Init took: (0.000638s)
+[2022.12.02-11.14.00:961][ 91]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2022.12.02-11.14.00:961][ 91]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_Menu.Menu up for play (max tick rate 60) at 2022.12.02-12.14.00
+[2022.12.02-11.14.00:961][ 91]LogWorld: Bringing up level for play took: 0.000253
+[2022.12.02-11.14.00:961][ 91]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2022.12.02-11.14.00:964][ 91]LogLoad: Took 0.063141 seconds to LoadMap(/Game/Scenes/UEDPIE_0_Menu)
+[2022.12.02-11.14.03:244][228]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.12.02-11.14.03:244][228]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2022.12.02-11.14.03:245][228]LogNet: Browse: /Game/Scenes/Bartosz
+[2022.12.02-11.14.03:245][228]LogLoad: LoadMap: /Game/Scenes/Bartosz
+[2022.12.02-11.14.03:245][228]LogWorld: BeginTearingDown for /Game/Scenes/UEDPIE_0_Menu
+[2022.12.02-11.14.03:245][228]LogWorld: UWorld::CleanupWorld for Menu, bSessionEnded=true, bCleanupResources=true
+[2022.12.02-11.14.03:245][228]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.02-11.14.03:297][228]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.12.02-11.14.03:299][228]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2022.12.02-11.14.03:308][228]LogAudio: Display: Audio Device (ID: 49) registered with world 'Bartosz'.
+[2022.12.02-11.14.03:308][228]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.02-11.14.03:308][228]LogAIModule: Creating AISystem for world Bartosz
+[2022.12.02-11.14.03:309][228]LogWorldPartition: ULevel::OnLevelLoaded(Bartosz)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=0)
+[2022.12.02-11.14.03:309][228]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.12.02-11.14.03:309][228]LogWorldPartition: UWorldPartition::Initialize(Asset=Bartosz, IsEditor=0, bPIEWorldTravel=1 IsGame=0, IsCooking=0)
+[2022.12.02-11.14.03:315][228]LogWorldPartition: Display: GenerateStreaming started...
+[2022.12.02-11.14.03:315][228]LogWorldPartition: Display: GetPartitionedActors started...
+[2022.12.02-11.14.03:315][228]LogWorldPartition: Display: GetPartitionedActors took 4 us (total: 216 us)
+[2022.12.02-11.14.03:333][228]LogWorldPartition: Display: GenerateStreaming took 18 ms (total: 202 ms)
+[2022.12.02-11.14.03:334][228]LogContentBundle: [Container: Bartosz] Creating new contrainer.
+[2022.12.02-11.14.03:334][228]LogWorldPartition: Display: WorldPartition initialize took 25 ms (total: 648 ms)
+[2022.12.02-11.14.03:334][228]LogPlayLevel: PIE: World Init took: (0.026503s)
+[2022.12.02-11.14.03:334][228]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2022.12.02-11.14.03:337][228]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_Bartosz.Bartosz up for play (max tick rate 60) at 2022.12.02-12.14.03
+[2022.12.02-11.14.03:337][228]LogWorld: Bringing up level for play took: 0.002800
+[2022.12.02-11.14.03:339][228]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=900.000 Y=1110.000 Z=92.013
+[2022.12.02-11.14.03:339][228]LogLoad: Took 0.093997 seconds to LoadMap(/Game/Scenes/Bartosz)
+[2022.12.02-11.14.08:762][544]LogNet: Browse: /Game/Scenes/GameWin
+[2022.12.02-11.14.08:762][544]LogLoad: LoadMap: /Game/Scenes/GameWin
+[2022.12.02-11.14.08:762][544]LogWorld: BeginTearingDown for /Game/Scenes/UEDPIE_0_Bartosz
+[2022.12.02-11.14.08:763][544]LogWorld: UWorld::CleanupWorld for Bartosz, bSessionEnded=true, bCleanupResources=true
+[2022.12.02-11.14.08:763][544]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.02-11.14.08:763][544]LogContentBundle: [Container: Bartosz] Deleting container.
+[2022.12.02-11.14.08:815][544]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.12.02-11.14.08:819][544]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2022.12.02-11.14.08:831][544]LogAudio: Display: Audio Device (ID: 49) registered with world 'GameWin'.
+[2022.12.02-11.14.08:831][544]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.02-11.14.08:831][544]LogAIModule: Creating AISystem for world GameWin
+[2022.12.02-11.14.08:831][544]LogPlayLevel: PIE: World Init took: (0.000723s)
+[2022.12.02-11.14.08:831][544]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2022.12.02-11.14.08:831][544]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_GameWin.GameWin up for play (max tick rate 60) at 2022.12.02-12.14.08
+[2022.12.02-11.14.08:831][544]LogWorld: Bringing up level for play took: 0.000428
+[2022.12.02-11.14.08:831][544]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2022.12.02-11.14.08:834][544]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.12.02-11.14.08:834][544]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2022.12.02-11.14.08:834][544]LogLoad: Took 0.071498 seconds to LoadMap(/Game/Scenes/GameWin)
+[2022.12.02-11.14.11:283][691]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.12.02-11.14.11:283][691]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2022.12.02-11.14.11:284][691]LogNet: Browse: /Game/Scenes/Bartosz
+[2022.12.02-11.14.11:284][691]LogLoad: LoadMap: /Game/Scenes/Bartosz
+[2022.12.02-11.14.11:284][691]LogWorld: BeginTearingDown for /Game/Scenes/UEDPIE_0_GameWin
+[2022.12.02-11.14.11:284][691]LogWorld: UWorld::CleanupWorld for GameWin, bSessionEnded=true, bCleanupResources=true
+[2022.12.02-11.14.11:284][691]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.02-11.14.11:362][691]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.12.02-11.14.11:365][691]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2022.12.02-11.14.11:373][691]LogAudio: Display: Audio Device (ID: 49) registered with world 'Bartosz'.
+[2022.12.02-11.14.11:373][691]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.02-11.14.11:374][691]LogAIModule: Creating AISystem for world Bartosz
+[2022.12.02-11.14.11:374][691]LogWorldPartition: ULevel::OnLevelLoaded(Bartosz)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=0)
+[2022.12.02-11.14.11:374][691]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.12.02-11.14.11:374][691]LogWorldPartition: UWorldPartition::Initialize(Asset=Bartosz, IsEditor=0, bPIEWorldTravel=1 IsGame=0, IsCooking=0)
+[2022.12.02-11.14.11:381][691]LogWorldPartition: Display: GenerateStreaming started...
+[2022.12.02-11.14.11:381][691]LogWorldPartition: Display: GetPartitionedActors started...
+[2022.12.02-11.14.11:381][691]LogWorldPartition: Display: GetPartitionedActors took 5 us (total: 221 us)
+[2022.12.02-11.14.11:400][691]LogWorldPartition: Display: GenerateStreaming took 19 ms (total: 221 ms)
+[2022.12.02-11.14.11:401][691]LogContentBundle: [Container: Bartosz] Creating new contrainer.
+[2022.12.02-11.14.11:401][691]LogWorldPartition: Display: WorldPartition initialize took 26 ms (total: 675 ms)
+[2022.12.02-11.14.11:401][691]LogPlayLevel: PIE: World Init took: (0.027809s)
+[2022.12.02-11.14.11:401][691]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2022.12.02-11.14.11:404][691]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_Bartosz.Bartosz up for play (max tick rate 60) at 2022.12.02-12.14.11
+[2022.12.02-11.14.11:404][691]LogWorld: Bringing up level for play took: 0.002787
+[2022.12.02-11.14.11:406][691]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=900.000 Y=1110.000 Z=92.013
+[2022.12.02-11.14.11:406][691]LogLoad: Took 0.122474 seconds to LoadMap(/Game/Scenes/Bartosz)
+[2022.12.02-11.14.19:338][163]LogNet: Browse: /Game/Scenes/GameOver
+[2022.12.02-11.14.19:338][163]LogLoad: LoadMap: /Game/Scenes/GameOver
+[2022.12.02-11.14.19:338][163]LogWorld: BeginTearingDown for /Game/Scenes/UEDPIE_0_Bartosz
+[2022.12.02-11.14.19:339][163]LogWorld: UWorld::CleanupWorld for Bartosz, bSessionEnded=true, bCleanupResources=true
+[2022.12.02-11.14.19:339][163]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.02-11.14.19:339][163]LogContentBundle: [Container: Bartosz] Deleting container.
+[2022.12.02-11.14.19:391][163]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.12.02-11.14.19:396][163]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2022.12.02-11.14.19:408][163]LogAudio: Display: Audio Device (ID: 49) registered with world 'GameOver'.
+[2022.12.02-11.14.19:408][163]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.02-11.14.19:408][163]LogAIModule: Creating AISystem for world GameOver
+[2022.12.02-11.14.19:408][163]LogPlayLevel: PIE: World Init took: (0.000776s)
+[2022.12.02-11.14.19:408][163]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2022.12.02-11.14.19:409][163]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_GameOver.GameOver up for play (max tick rate 60) at 2022.12.02-12.14.19
+[2022.12.02-11.14.19:409][163]LogWorld: Bringing up level for play took: 0.000469
+[2022.12.02-11.14.19:409][163]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2022.12.02-11.14.19:411][163]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.12.02-11.14.19:411][163]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2022.12.02-11.14.19:411][163]LogLoad: Took 0.072577 seconds to LoadMap(/Game/Scenes/GameOver)
+[2022.12.02-11.14.22:911][373]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.12.02-11.14.22:911][373]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2022.12.02-11.14.22:912][373]LogNet: Browse: /Game/Scenes/Bartosz
+[2022.12.02-11.14.22:912][373]LogLoad: LoadMap: /Game/Scenes/Bartosz
+[2022.12.02-11.14.22:912][373]LogWorld: BeginTearingDown for /Game/Scenes/UEDPIE_0_GameOver
+[2022.12.02-11.14.22:912][373]LogWorld: UWorld::CleanupWorld for GameOver, bSessionEnded=true, bCleanupResources=true
+[2022.12.02-11.14.22:912][373]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.02-11.14.22:963][373]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.12.02-11.14.22:966][373]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2022.12.02-11.14.22:974][373]LogAudio: Display: Audio Device (ID: 49) registered with world 'Bartosz'.
+[2022.12.02-11.14.22:974][373]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.02-11.14.22:975][373]LogAIModule: Creating AISystem for world Bartosz
+[2022.12.02-11.14.22:975][373]LogWorldPartition: ULevel::OnLevelLoaded(Bartosz)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=0)
+[2022.12.02-11.14.22:975][373]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.12.02-11.14.22:975][373]LogWorldPartition: UWorldPartition::Initialize(Asset=Bartosz, IsEditor=0, bPIEWorldTravel=1 IsGame=0, IsCooking=0)
+[2022.12.02-11.14.22:981][373]LogWorldPartition: Display: GenerateStreaming started...
+[2022.12.02-11.14.22:981][373]LogWorldPartition: Display: GetPartitionedActors started...
+[2022.12.02-11.14.22:981][373]LogWorldPartition: Display: GetPartitionedActors took 4 us (total: 226 us)
+[2022.12.02-11.14.23:000][373]LogWorldPartition: Display: GenerateStreaming took 18 ms (total: 240 ms)
+[2022.12.02-11.14.23:001][373]LogContentBundle: [Container: Bartosz] Creating new contrainer.
+[2022.12.02-11.14.23:001][373]LogWorldPartition: Display: WorldPartition initialize took 25 ms (total: 700 ms)
+[2022.12.02-11.14.23:001][373]LogPlayLevel: PIE: World Init took: (0.026556s)
+[2022.12.02-11.14.23:001][373]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2022.12.02-11.14.23:003][373]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_Bartosz.Bartosz up for play (max tick rate 60) at 2022.12.02-12.14.23
+[2022.12.02-11.14.23:004][373]LogWorld: Bringing up level for play took: 0.002869
+[2022.12.02-11.14.23:005][373]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=900.000 Y=1110.000 Z=92.013
+[2022.12.02-11.14.23:006][373]LogLoad: Took 0.093442 seconds to LoadMap(/Game/Scenes/Bartosz)
+[2022.12.02-11.14.25:072][494]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.02-11.14.25:072][494]LogWorld: BeginTearingDown for /Game/Scenes/UEDPIE_0_Bartosz
+[2022.12.02-11.14.25:072][494]LogWorld: UWorld::CleanupWorld for Bartosz, bSessionEnded=true, bCleanupResources=true
+[2022.12.02-11.14.25:072][494]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.02-11.14.25:072][494]LogContentBundle: [Container: Bartosz] Deleting container.
+[2022.12.02-11.14.25:077][494]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.12.02-11.14.25:084][494]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.02-11.14.25:137][494]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.02-11.14.25:137][494]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=49
+[2022.12.02-11.14.25:139][494]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=49
+[2022.12.02-11.14.25:146][494]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2022.12.02-11.14.25:177][495]LogPlayLevel: Display: Destroying online subsystem :Context_79
+[2022.12.02-11.17.18:394][191]LogEditorViewport: Clicking Background
+[2022.12.02-11.17.18:726][201]LogEditorViewport: Clicking Background
+[2022.12.02-11.17.25:891][618]LogViewport: Scene viewport resized to 1141x686, mode Windowed.
+[2022.12.02-11.18.30:278][371]BlueprintLog: New page: Compile TriggerLose
+[2022.12.02-11.18.30:391][371]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2022.12.02-11.18.31:108][408]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2022.12.02-11.18.31:178][408]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/TriggerLose" FILE="../../../../../Repozytoria i inne takie/PBGameJam/MyProject/Content/Blueprints/TriggerLose.uasset" SILENT=true
+[2022.12.02-11.18.31:185][408]LogSavePackage: Moving output files for package: /Game/Blueprints/TriggerLose
+[2022.12.02-11.18.31:185][408]LogSavePackage: Moving '../../../../../Repozytoria i inne takie/PBGameJam/MyProject/Saved/TriggerLose0DB8837C44BA0C5D763F34BBFB3F5716.tmp' to '../../../../../Repozytoria i inne takie/PBGameJam/MyProject/Content/Blueprints/TriggerLose.uasset'
+[2022.12.02-11.18.31:194][408]LogFileHelpers: InternalPromptForCheckoutAndSave took 86 ms (total: 24.9 sec)
+[2022.12.02-11.18.31:203][408]AssetCheck: New page: Asset Save: TriggerLose
+[2022.12.02-11.18.31:203][408]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/TriggerLose.TriggerLose
+[2022.12.02-11.18.33:592][551]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.12.02-11.18.33:598][551]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.12.02-11.18.33:598][551]PIE: New page: PIE session: Menu (2 gru 2022, 13:18:33)
+[2022.12.02-11.18.33:598][551]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_Menu
+[2022.12.02-11.18.33:599][551]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000927s)
+[2022.12.02-11.18.33:599][551]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/Menu.Menu to /Game/Scenes/UEDPIE_0_Menu.Menu (0.000954s)
+[2022.12.02-11.18.33:599][551]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.02-11.18.33:599][551]LogAIModule: Creating AISystem for world Menu
+[2022.12.02-11.18.33:600][551]LogPlayLevel: PIE: World Init took: (0.000713s)
+[2022.12.02-11.18.33:654][551]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2022.12.02-11.18.33:656][551]LogAudio: Display: Creating Audio Device:                 Id: 50, Scope: Unique, Realtime: True
+[2022.12.02-11.18.33:656][551]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.12.02-11.18.33:656][551]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.12.02-11.18.33:656][551]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.12.02-11.18.33:656][551]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.12.02-11.18.33:656][551]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2022.12.02-11.18.33:656][551]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.12.02-11.18.33:656][551]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2022.12.02-11.18.33:656][551]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.12.02-11.18.33:656][551]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.12.02-11.18.33:656][551]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.12.02-11.18.33:657][551]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.12.02-11.18.33:660][551]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.12.02-11.18.33:677][551]LogAudioMixer: Display: Using Audio Hardware Device DAEWOO-LCDTV (NVIDIA High Definition Audio)
+[2022.12.02-11.18.33:678][551]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.12.02-11.18.33:678][551]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.12.02-11.18.33:678][551]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.12.02-11.18.33:680][551]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=50
+[2022.12.02-11.18.33:680][551]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=50
+[2022.12.02-11.18.33:684][551]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=50
+[2022.12.02-11.18.33:684][551]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=50
+[2022.12.02-11.18.33:684][551]LogInit: FAudioDevice initialized.
+[2022.12.02-11.18.33:684][551]LogAudio: Display: Audio Device (ID: 50) registered with world 'Menu'.
+[2022.12.02-11.18.33:690][551]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2022.12.02-11.18.33:690][551]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_Menu.Menu up for play (max tick rate 60) at 2022.12.02-12.18.33
+[2022.12.02-11.18.33:691][551]LogWorld: Bringing up level for play took: 0.000759
+[2022.12.02-11.18.33:694][551]LogOnline: OSS: Created online subsystem instance for: :Context_80
+[2022.12.02-11.18.33:697][551]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.12.02-11.18.33:697][551]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2022.12.02-11.18.33:697][551]PIE: Server logged in
+[2022.12.02-11.18.33:698][551]PIE: Play in editor total start time 0,1 seconds.
+[2022.12.02-11.18.35:997][686]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.12.02-11.18.35:997][686]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2022.12.02-11.18.35:998][686]LogNet: Browse: /Game/Scenes/Bartosz
+[2022.12.02-11.18.35:998][686]LogLoad: LoadMap: /Game/Scenes/Bartosz
+[2022.12.02-11.18.35:998][686]LogWorld: BeginTearingDown for /Game/Scenes/UEDPIE_0_Menu
+[2022.12.02-11.18.35:998][686]LogWorld: UWorld::CleanupWorld for Menu, bSessionEnded=true, bCleanupResources=true
+[2022.12.02-11.18.35:998][686]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.02-11.18.36:055][686]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.12.02-11.18.36:059][686]LogUObjectHash: Compacting FUObjectHashTables data took   2.39ms
+[2022.12.02-11.18.36:066][686]LogAudio: Display: Audio Device (ID: 50) registered with world 'Bartosz'.
+[2022.12.02-11.18.36:067][686]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.02-11.18.36:067][686]LogAIModule: Creating AISystem for world Bartosz
+[2022.12.02-11.18.36:067][686]LogWorldPartition: ULevel::OnLevelLoaded(Bartosz)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=0)
+[2022.12.02-11.18.36:067][686]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.12.02-11.18.36:067][686]LogWorldPartition: UWorldPartition::Initialize(Asset=Bartosz, IsEditor=0, bPIEWorldTravel=1 IsGame=0, IsCooking=0)
+[2022.12.02-11.18.36:074][686]LogWorldPartition: Display: GenerateStreaming started...
+[2022.12.02-11.18.36:074][686]LogWorldPartition: Display: GetPartitionedActors started...
+[2022.12.02-11.18.36:074][686]LogWorldPartition: Display: GetPartitionedActors took 7 us (total: 233 us)
+[2022.12.02-11.18.36:094][686]LogWorldPartition: Display: GenerateStreaming took 20 ms (total: 260 ms)
+[2022.12.02-11.18.36:096][686]LogContentBundle: [Container: Bartosz] Creating new contrainer.
+[2022.12.02-11.18.36:096][686]LogWorldPartition: Display: WorldPartition initialize took 27 ms (total: 728 ms)
+[2022.12.02-11.18.36:096][686]LogPlayLevel: PIE: World Init took: (0.028841s)
+[2022.12.02-11.18.36:096][686]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2022.12.02-11.18.36:099][686]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_Bartosz.Bartosz up for play (max tick rate 60) at 2022.12.02-12.18.36
+[2022.12.02-11.18.36:099][686]LogWorld: Bringing up level for play took: 0.003270
+[2022.12.02-11.18.36:101][686]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=900.000 Y=1110.000 Z=92.013
+[2022.12.02-11.18.36:101][686]LogLoad: Took 0.104132 seconds to LoadMap(/Game/Scenes/Bartosz)
+[2022.12.02-11.19.24:503][585]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.02-11.19.24:503][585]LogWorld: BeginTearingDown for /Game/Scenes/UEDPIE_0_Bartosz
+[2022.12.02-11.19.24:503][585]LogWorld: UWorld::CleanupWorld for Bartosz, bSessionEnded=true, bCleanupResources=true
+[2022.12.02-11.19.24:504][585]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.02-11.19.24:504][585]LogContentBundle: [Container: Bartosz] Deleting container.
+[2022.12.02-11.19.24:508][585]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.12.02-11.19.24:516][585]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.02-11.19.24:572][585]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.02-11.19.24:572][585]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=50
+[2022.12.02-11.19.24:575][585]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=50
+[2022.12.02-11.19.24:582][585]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2022.12.02-11.19.24:612][586]LogPlayLevel: Display: Destroying online subsystem :Context_80
+[2022.12.02-11.19.55:628][208]LogEditorTransaction: Undo Edit Attenuation Radius
+[2022.12.02-11.19.56:037][215]LogEditorTransaction: Undo Edit Attenuation Radius
+[2022.12.02-11.20.03:677][657]BlueprintLog: New page: Compile TriggerLose
+[2022.12.02-11.20.03:770][657]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2022.12.02-11.20.04:431][686]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2022.12.02-11.20.04:487][686]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/TriggerLose" FILE="../../../../../Repozytoria i inne takie/PBGameJam/MyProject/Content/Blueprints/TriggerLose.uasset" SILENT=true
+[2022.12.02-11.20.04:493][686]LogSavePackage: Moving output files for package: /Game/Blueprints/TriggerLose
+[2022.12.02-11.20.04:494][686]LogSavePackage: Moving '../../../../../Repozytoria i inne takie/PBGameJam/MyProject/Saved/TriggerLose4AB9516444D0DD89A224048273ACA536.tmp' to '../../../../../Repozytoria i inne takie/PBGameJam/MyProject/Content/Blueprints/TriggerLose.uasset'
+[2022.12.02-11.20.04:501][686]LogFileHelpers: InternalPromptForCheckoutAndSave took 70 ms (total: 24.9 sec)
+[2022.12.02-11.20.04:510][686]AssetCheck: New page: Asset Save: TriggerLose
+[2022.12.02-11.20.04:510][686]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/TriggerLose.TriggerLose
