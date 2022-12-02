@@ -4501,3 +4501,132 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2022.12.02-17.07.55:697][248]LogWorldPartition: Actor /Game/Scenes/Lvl3.Lvl3:PersistentLevel.Tree_C_UAID_8C8CAAAC26B8464F01_1888927982 is unreachable without properly detaching object /Game/__ExternalActors__/Scenes/Lvl3/0/9F/SB3M1CQAS61SQT4X9VR2QO.PackageMetaData in its package
 [2022.12.02-17.07.55:699][248]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
 [2022.12.02-17.07.55:743][249]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2022.12.02-17.09.56:063][106]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/Graphic/Materials/Roof.Roof
+[2022.12.02-17.09.56:064][106]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.02-17.09.56:420][106]LogViewport: Scene viewport resized to 845x858, mode Windowed.
+[2022.12.02-17.10.03:454][306]LogSlate: Window 'Color Picker' being destroyed
+[2022.12.02-17.10.04:355][339]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2022.12.02-17.10.04:572][339]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Graphic/Materials/Roof" FILE="D:/PBGameJam/MyProject/Content/Graphic/Materials/Roof.uasset" SILENT=true
+[2022.12.02-17.10.04:599][339]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2022.12.02-17.10.04:628][339]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2022.12.02-17.10.04:630][339]LogSavePackage: Moving output files for package: /Game/Graphic/Materials/Roof
+[2022.12.02-17.10.04:630][339]LogSavePackage: Moving 'D:/PBGameJam/MyProject/Saved/RoofE9DB17EE47DA42F81EA8B7A09A5444A3.tmp' to 'D:/PBGameJam/MyProject/Content/Graphic/Materials/Roof.uasset'
+[2022.12.02-17.10.04:639][339]LogFileHelpers: InternalPromptForCheckoutAndSave took 284 ms (total: 25.5 sec)
+[2022.12.02-17.10.04:652][339]AssetCheck: New page: Asset Save: Roof
+[2022.12.02-17.10.04:652][339]LogContentValidation: Display: Validating /Script/Engine.MaterialInstanceConstant /Game/Graphic/Materials/Roof.Roof
+[2022.12.02-17.10.05:165][360]LogSlate: Window 'Roof' being destroyed
+[2022.12.02-17.10.05:209][360]LogWorld: UWorld::CleanupWorld for World_44, bSessionEnded=true, bCleanupResources=true
+[2022.12.02-17.10.05:209][360]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.02-17.10.21:820][984]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/TriggerWin.TriggerWin
+[2022.12.02-17.10.21:821][984]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.02-17.10.47:865][863]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2022.12.02-17.10.48:159][863]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/TriggerWin" FILE="D:/PBGameJam/MyProject/Content/Blueprints/TriggerWin.uasset" SILENT=true
+[2022.12.02-17.10.48:166][863]LogSavePackage: Moving output files for package: /Game/Blueprints/TriggerWin
+[2022.12.02-17.10.48:166][863]LogSavePackage: Moving 'D:/PBGameJam/MyProject/Saved/TriggerWin4207CE9741DA9069FF7621A4D62071DD.tmp' to 'D:/PBGameJam/MyProject/Content/Blueprints/TriggerWin.uasset'
+[2022.12.02-17.10.48:175][863]LogFileHelpers: InternalPromptForCheckoutAndSave took 309 ms (total: 25.8 sec)
+[2022.12.02-17.10.48:181][863]AssetCheck: New page: Asset Save: TriggerWin
+[2022.12.02-17.10.48:181][863]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/TriggerWin.TriggerWin
+[2022.12.02-17.10.48:719][885]LogSlate: Window 'TriggerWin' being destroyed
+[2022.12.02-17.10.48:753][885]LogWorld: UWorld::CleanupWorld for World_45, bSessionEnded=true, bCleanupResources=true
+[2022.12.02-17.10.48:753][885]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.02-17.11.22:756][273]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2022.12.02-17.11.22:760][273]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Scenes/Lvl3/E/Q7/2P8HD8BZVUET2JRQPAS14D_Auto2
+[2022.12.02-17.11.22:760][273]LogSavePackage: Moving 'D:/PBGameJam/MyProject/Saved/2P8HD8BZVUET2JRQPAS14D_Auto22439A2AA481E46603D1C4296658A9A64.tmp' to 'D:/PBGameJam/MyProject/Saved/Autosaves/Game/__ExternalActors__/Scenes/Lvl3/E/Q7/2P8HD8BZVUET2JRQPAS14D_Auto2.uasset'
+[2022.12.02-17.11.22:761][273]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Scenes/Lvl3' took 0.033
+[2022.12.02-17.11.22:761][273]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.033
+[2022.12.02-17.11.24:990][340]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/TriggerWin.TriggerWin_C
+[2022.12.02-17.11.24:990][340]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/TriggerWin.TriggerWin_C
+[2022.12.02-17.11.24:993][340]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/TriggerWin.TriggerWin as actor: TriggerWin_C /Game/Scenes/Lvl3.Lvl3:PersistentLevel.TriggerWin_C_0
+[2022.12.02-17.11.24:997][340]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/TriggerWin.TriggerWin as actor: TriggerWin_C /Game/Scenes/Lvl3.Lvl3:PersistentLevel.TriggerWin_C_0
+[2022.12.02-17.11.25:457][353]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/TriggerWin.TriggerWin_C
+[2022.12.02-17.11.25:457][353]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/TriggerWin.TriggerWin_C
+[2022.12.02-17.11.25:463][353]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/TriggerWin.TriggerWin as actor: TriggerWin_C /Game/Scenes/Lvl3.Lvl3:PersistentLevel.TriggerWin_C_UAID_8C8CAAAC26B84E4F01_1108510321
+[2022.12.02-17.11.25:466][353]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/TriggerWin.TriggerWin as actor: TriggerWin_C /Game/Scenes/Lvl3.Lvl3:PersistentLevel.TriggerWin_C_UAID_8C8CAAAC26B84E4F01_1108510321
+[2022.12.02-17.13.15:838][252]LogContentBrowser: Deferred new asset file creation: BaseColor_Inst
+[2022.12.02-17.13.15:845][252]LogContentBrowser: Creating deferred item: BaseColor_Inst
+[2022.12.02-17.13.15:860][253]LogContentBrowser: Renaming the item being created (Deferred Item: BaseColor_Inst).
+[2022.12.02-17.13.19:120][383]LogContentBrowser: Attempting asset rename: BaseColor_Inst -> Sword
+[2022.12.02-17.13.19:121][383]LogContentBrowser: End creating deferred item BaseColor_Inst
+[2022.12.02-17.13.22:409][436]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/Graphic/Materials/Sword.Sword
+[2022.12.02-17.13.22:410][436]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.02-17.13.22:837][436]LogViewport: Scene viewport resized to 845x858, mode Windowed.
+[2022.12.02-17.13.56:133][571]LogSlate: Window 'Color Picker' being destroyed
+[2022.12.02-17.13.59:499][671]LogSlate: Window 'Color Picker' being destroyed
+[2022.12.02-17.14.04:714][809]LogSlate: Window 'Color Picker' being destroyed
+[2022.12.02-17.14.21:732][137]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2022.12.02-17.14.22:054][137]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Graphic/Materials/Sword" FILE="D:/PBGameJam/MyProject/Content/Graphic/Materials/Sword.uasset" SILENT=true
+[2022.12.02-17.14.22:082][137]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2022.12.02-17.14.22:114][137]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2022.12.02-17.14.22:117][137]LogSavePackage: Moving output files for package: /Game/Graphic/Materials/Sword
+[2022.12.02-17.14.22:117][137]LogSavePackage: Moving 'D:/PBGameJam/MyProject/Saved/SwordDDD379BC4BBB46C5B6E0AEB64DE10CCC.tmp' to 'D:/PBGameJam/MyProject/Content/Graphic/Materials/Sword.uasset'
+[2022.12.02-17.14.22:127][137]LogFileHelpers: InternalPromptForCheckoutAndSave took 395 ms (total: 26.2 sec)
+[2022.12.02-17.14.22:132][137]AssetCheck: New page: Asset Save: Sword
+[2022.12.02-17.14.22:133][137]LogContentValidation: Display: Validating /Script/Engine.MaterialInstanceConstant /Game/Graphic/Materials/Sword.Sword
+[2022.12.02-17.14.23:711][196]LogSlate: Window 'Sword' being destroyed
+[2022.12.02-17.14.23:742][196]LogWorld: UWorld::CleanupWorld for World_46, bSessionEnded=true, bCleanupResources=true
+[2022.12.02-17.14.23:742][196]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.02-17.14.29:047][271]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/TriggerWin.TriggerWin
+[2022.12.02-17.14.29:048][271]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.02-17.14.31:862][339]LogViewport: Scene viewport resized to 974x647, mode Windowed.
+[2022.12.02-17.14.50:752][630]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2022.12.02-17.14.50:992][630]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/TriggerWin" FILE="D:/PBGameJam/MyProject/Content/Blueprints/TriggerWin.uasset" SILENT=true
+[2022.12.02-17.14.50:997][630]LogSavePackage: Moving output files for package: /Game/Blueprints/TriggerWin
+[2022.12.02-17.14.50:997][630]LogSavePackage: Moving 'D:/PBGameJam/MyProject/Saved/TriggerWinC00575024B505F661E4D538BA104035E.tmp' to 'D:/PBGameJam/MyProject/Content/Blueprints/TriggerWin.uasset'
+[2022.12.02-17.14.51:006][630]LogFileHelpers: InternalPromptForCheckoutAndSave took 254 ms (total: 26.5 sec)
+[2022.12.02-17.14.51:011][630]AssetCheck: New page: Asset Save: TriggerWin
+[2022.12.02-17.14.51:011][630]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/TriggerWin.TriggerWin
+[2022.12.02-17.14.51:852][648]LogSlate: Window 'TriggerWin' being destroyed
+[2022.12.02-17.14.51:910][648]LogWorld: UWorld::CleanupWorld for World_47, bSessionEnded=true, bCleanupResources=true
+[2022.12.02-17.14.51:910][648]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.02-17.15.11:365][422]Cmd: DELETE
+[2022.12.02-17.15.11:365][422]Cmd: ACTOR DELETE
+[2022.12.02-17.15.11:366][422]LogEditorActor: Deleted Actor: TriggerWin_C
+[2022.12.02-17.15.11:402][422]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2022.12.02-17.15.11:406][422]LogEditorActor: Deleted 1 Actors (0.041 secs)
+[2022.12.02-17.15.48:021][959]Cmd: EDIT COPY
+[2022.12.02-17.15.48:305][969]Cmd: EDIT PASTE
+[2022.12.02-17.16.17:598][172]LogEditorViewport: Clicking Background
+[2022.12.02-17.16.26:742][513]LogEditorViewport: Clicking Background
+[2022.12.02-17.16.34:864][861]Cmd: EDIT COPY
+[2022.12.02-17.16.35:140][872]Cmd: EDIT PASTE
+[2022.12.02-17.17.16:040][552]LogEditorViewport: Clicking Background
+[2022.12.02-17.18.10:432][605]LogEditorViewport: Clicking Background
+[2022.12.02-17.18.18:176][873]LogEditorViewport: Clicking Background
+[2022.12.02-17.18.27:204][232]Cmd: EDIT COPY
+[2022.12.02-17.18.27:386][238]Cmd: EDIT PASTE
+[2022.12.02-17.18.35:351][512]Cmd: EDIT COPY
+[2022.12.02-17.18.35:591][523]Cmd: EDIT PASTE
+[2022.12.02-17.18.43:818][816]LogEditorViewport: Clicking Background
+[2022.12.02-17.18.51:306][111]LogEditorViewport: Clicking Background
+[2022.12.02-17.18.55:601][275]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2022.12.02-17.18.55:820][275]LogWorldPartition: Actor /Game/Scenes/Lvl3.Lvl3:PersistentLevel.TriggerWin_C_UAID_8C8CAAAC26B84E4F01_1108510321 is unreachable without properly detaching object /Game/__ExternalActors__/Scenes/Lvl3/A/HS/UWZ1M5PSUA78ANA6LYSR8Z.PackageMetaData in its package
+[2022.12.02-17.18.55:830][275]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2022.12.02-17.18.55:864][275]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2022.12.02-17.18.55:889][275]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2022.12.02-17.18.55:891][275]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Scenes/Lvl3/4/8F/TQP5QV1KACR81HFMIPW993
+[2022.12.02-17.18.55:891][275]LogSavePackage: Moving 'D:/PBGameJam/MyProject/Saved/TQP5QV1KACR81HFMIPW99328634AD04445C3ECCFF50286229B9822.tmp' to 'D:/PBGameJam/MyProject/Content/__ExternalActors__/Scenes/Lvl3/4/8F/TQP5QV1KACR81HFMIPW993.uasset'
+[2022.12.02-17.18.55:893][275]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Scenes/Lvl3/2/NG/TDEP801ZSM5KN4EZVLYI72
+[2022.12.02-17.18.55:893][275]LogSavePackage: Moving 'D:/PBGameJam/MyProject/Saved/TDEP801ZSM5KN4EZVLYI728223B0D44A6DA7D10506A59F431E2332.tmp' to 'D:/PBGameJam/MyProject/Content/__ExternalActors__/Scenes/Lvl3/2/NG/TDEP801ZSM5KN4EZVLYI72.uasset'
+[2022.12.02-17.18.55:896][275]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Scenes/Lvl3/E/Q7/2P8HD8BZVUET2JRQPAS14D
+[2022.12.02-17.18.55:897][275]LogSavePackage: Moving 'D:/PBGameJam/MyProject/Saved/2P8HD8BZVUET2JRQPAS14D2A952B634CF77C737F5AAEAA91D09AA7.tmp' to 'D:/PBGameJam/MyProject/Content/__ExternalActors__/Scenes/Lvl3/E/Q7/2P8HD8BZVUET2JRQPAS14D.uasset'
+[2022.12.02-17.18.55:899][275]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Scenes/Lvl3/E/AD/NBWMICIF9DOUXTWZP305HM
+[2022.12.02-17.18.55:899][275]LogSavePackage: Moving 'D:/PBGameJam/MyProject/Saved/NBWMICIF9DOUXTWZP305HM27D52F34403BDFF7D880D68602F30E80.tmp' to 'D:/PBGameJam/MyProject/Content/__ExternalActors__/Scenes/Lvl3/E/AD/NBWMICIF9DOUXTWZP305HM.uasset'
+[2022.12.02-17.18.55:901][275]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Scenes/Lvl3/3/6P/9GW7E65RL8UI7CLS183NAL
+[2022.12.02-17.18.55:901][275]LogSavePackage: Moving 'D:/PBGameJam/MyProject/Saved/9GW7E65RL8UI7CLS183NAL60FDC8044146345238AA73B0B24FFFD5.tmp' to 'D:/PBGameJam/MyProject/Content/__ExternalActors__/Scenes/Lvl3/3/6P/9GW7E65RL8UI7CLS183NAL.uasset'
+[2022.12.02-17.18.55:904][275]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Scenes/Lvl3/5/KY/GY4TJY5GLTEISA2573NCKS
+[2022.12.02-17.18.55:904][275]LogSavePackage: Moving 'D:/PBGameJam/MyProject/Saved/GY4TJY5GLTEISA2573NCKSD272B8974E22B2E8B5EC76A3FD65F813.tmp' to 'D:/PBGameJam/MyProject/Content/__ExternalActors__/Scenes/Lvl3/5/KY/GY4TJY5GLTEISA2573NCKS.uasset'
+[2022.12.02-17.18.55:906][275]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Scenes/Lvl3/8/HM/GI4LQFHHBJMHTYXS1PY40U
+[2022.12.02-17.18.55:906][275]LogSavePackage: Moving 'D:/PBGameJam/MyProject/Saved/GI4LQFHHBJMHTYXS1PY40U8FCADA344AED95A3785B889D952E515B.tmp' to 'D:/PBGameJam/MyProject/Content/__ExternalActors__/Scenes/Lvl3/8/HM/GI4LQFHHBJMHTYXS1PY40U.uasset'
+[2022.12.02-17.18.55:909][275]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Scenes/Lvl3/6/QL/96KXEDN6ARNTITGBDENY2Y
+[2022.12.02-17.18.55:909][275]LogSavePackage: Moving 'D:/PBGameJam/MyProject/Saved/96KXEDN6ARNTITGBDENY2Y1E8CC49746EAFF0A5E0B218392C054F9.tmp' to 'D:/PBGameJam/MyProject/Content/__ExternalActors__/Scenes/Lvl3/6/QL/96KXEDN6ARNTITGBDENY2Y.uasset'
+[2022.12.02-17.18.55:923][275]LogFileHelpers: InternalPromptForCheckoutAndSave took 321 ms (total: 26.8 sec)
+[2022.12.02-17.18.55:931][275]AssetCheck: New page: Asset Save: multiple assets
+[2022.12.02-17.18.55:931][275]LogContentValidation: Display: Validating /Game/Blueprints/Objects/Muud.Muud_C /Game/Scenes/Lvl3.Lvl3:PersistentLevel.Muud_C_UAID_8C8CAAAC26B84E4F01_1371358322
+[2022.12.02-17.18.55:931][275]LogContentValidation: Display: Validating /Game/Blueprints/Objects/Grass.Grass_C /Game/Scenes/Lvl3.Lvl3:PersistentLevel.NewBlueprint_C_UAID_8C8CAAAC26B84E4F01_1538645325
+[2022.12.02-17.18.55:931][275]LogContentValidation: Display: Validating /Game/Blueprints/Objects/Tree.Tree_C /Game/Scenes/Lvl3.Lvl3:PersistentLevel.Tree_C_UAID_8C8CAAAC26B84E4F01_1530439324
+[2022.12.02-17.18.55:931][275]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/Scenes/Lvl3.Lvl3:PersistentLevel.StaticMeshActor_UAID_8C8CAAAC26B84E4F01_1418194323
+[2022.12.02-17.18.55:931][275]LogContentValidation: Display: Validating /Game/Blueprints/TriggerWin.TriggerWin_C /Game/Scenes/Lvl3.Lvl3:PersistentLevel.TriggerWin_C_UAID_F875A4315763304F01_2146477033
+[2022.12.02-17.18.55:931][275]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/Scenes/Lvl3.Lvl3:PersistentLevel.StaticMeshActor_UAID_8C8CAAAC26B8484F01_1204364347
+[2022.12.02-17.18.55:931][275]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/Scenes/Lvl3.Lvl3:PersistentLevel.StaticMeshActor_UAID_8C8CAAAC26B8474F01_1831395168
+[2022.12.02-17.18.55:931][275]LogContentValidation: Display: Validating /Game/Blueprints/Objects/Muud.Muud_C /Game/Scenes/Lvl3.Lvl3:PersistentLevel.Muud_C_UAID_8C8CAAAC26B84C4F01_1542870962
+[2022.12.02-17.18.55:956][275]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
