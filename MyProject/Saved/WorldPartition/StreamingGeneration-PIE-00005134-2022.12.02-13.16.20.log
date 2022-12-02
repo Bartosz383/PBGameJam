@@ -1,0 +1,78 @@
+[+] Containers:
+ |- [+] Container: /Game/Scenes/Bartosz
+ |   |- [+] ActorDescs:
+ |   |   |- Guid:064E5FAC4ED76359DFD329AE65115B3C BaseClass:/Game/Blueprints/Objects/Grass.Grass_C NativeClass:/Script/Engine.Actor Name:NewBlueprint_C_UAID_8C8CAAAC26B83D4F01_1498292338 Label:NewBlueprint7 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=701.183 Y=1424.746 Z=-161.187), Max=(X=2058.817 Y=2615.254 Z=81.187) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:09E6317C4AD46A5E74C9FFADEF538EF2 BaseClass: NativeClass:/Script/Engine.PostProcessVolume Name:PostProcessVolume_0 Label:PostProcessVolume SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=400.000), Max=(X=200.000 Y=200.000 Z=600.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 FolderPath:Lighting FolderGuid:963EC3EB4002CCE9759E2EBA541A873A
+ |   |   |- Guid:0A6538564B64B2106476BFAA2E1FB456 BaseClass:/Game/Blueprints/Objects/Grass.Grass_C NativeClass:/Script/Engine.Actor Name:NewBlueprint_C_UAID_8C8CAAAC26B83D4F01_1627487343 Label:NewBlueprint9 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-465.506 Y=1193.823 Z=-178.000), Max=(X=885.506 Y=2386.177 Z=98.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:11DD3D9E40DFC688DD7AD3B470257D9A BaseClass:/Game/Blueprints/Objects/Grass.Grass_C NativeClass:/Script/Engine.Actor Name:NewBlueprint_C_UAID_8C8CAAAC26B83D4F01_1309180329 Label:NewBlueprint6 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1099.591 Y=-315.506 Z=-151.187), Max=(X=2280.409 Y=1035.506 Z=91.187) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:15410C874AA399C94B3651AEE1EF67B2 BaseClass:/Game/Blueprints/Objects/Grass.Grass_C NativeClass:/Script/Engine.Actor Name:Grass_C_UAID_8C8CAAAC26B83D4F01_1547699340 Label:Grass SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=116.932 Y=-749.082 Z=-57.500), Max=(X=6103.068 Y=2469.082 Z=17.500) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:31DD84594079F49FBCA02E9609D67BFE BaseClass: NativeClass:/Script/Engine.WorldDataLayers Name:WorldDataLayers Label:WorldDataLayers SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:44ED670D4B1EDED8D42BA1946E400BF5 BaseClass: NativeClass:/Script/Engine.SkyAtmosphere Name:SkyAtmosphere_0 Label:SkyAtmosphere SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=1020.000), Max=(X=0.000 Y=0.000 Z=1020.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 FolderPath:Lighting FolderGuid:963EC3EB4002CCE9759E2EBA541A873A
+ |   |   |- Guid:533C9A0E440E5ADD58343C8A5B4D0921 BaseClass: NativeClass:/Script/Engine.SkyLight Name:SkyLight_1 Label:SkyLight SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=690.000), Max=(X=0.000 Y=0.000 Z=690.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 FolderPath:Lighting FolderGuid:963EC3EB4002CCE9759E2EBA541A873A
+ |   |   |- Guid:8B902EB5412193B705B7EFB031C31823 BaseClass:/Game/Blueprints/Objects/Muud.Muud_C NativeClass:/Script/Engine.Actor Name:Muud_C_UAID_8C8CAAAC26B83D4F01_1178665323 Label:Muud SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-2.047 Y=417.578 Z=-120.000), Max=(X=4562.047 Y=2542.422 Z=-20.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:A13021204AE45CC2F0128F8EC996B593 BaseClass:/Game/Blueprints/TriggerWin.TriggerWin_C NativeClass:/Script/Engine.Actor Name:TriggerWin_C_UAID_F875A4315763304F01_2146477033 Label:TriggerWin SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2564.000 Y=1544.000 Z=-46.000), Max=(X=2756.000 Y=1736.000 Z=146.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:A787583E4DF135C63B8B239832F96BCA BaseClass:/Game/Blueprints/Objects/Grass.Grass_C NativeClass:/Script/Engine.Actor Name:Grass_C_UAID_8C8CAAAC26B83D4F01_1567967341 Label:Grass2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-783.068 Y=750.918 Z=-57.500), Max=(X=5203.068 Y=3969.082 Z=17.500) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:B632EDDE4AF1EBA84074098EA89190F7 BaseClass:/Game/Blueprints/Objects/Grass.Grass_C NativeClass:/Script/Engine.Actor Name:NewBlueprint_C_UAID_8C8CAAAC26B83D4F01_1617424342 Label:NewBlueprint8 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=3017.398 Y=316.570 Z=-151.187), Max=(X=4322.602 Y=1723.430 Z=91.187) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:D50F9CFC43CBA9AC44BA92ACB3761CAD BaseClass: NativeClass:/Script/Engine.ExponentialHeightFog Name:ExponentialHeightFog_0 Label:ExponentialHeightFog SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-5600.000 Y=-50.000 Z=-6850.000), Max=(X=-5600.000 Y=-50.000 Z=-6850.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 FolderPath:Lighting FolderGuid:963EC3EB4002CCE9759E2EBA541A873A
+ |   |   |- Guid:F98CBB264490409BB3E76C9E70D210D6 BaseClass: NativeClass:/Script/Engine.VolumetricCloud Name:VolumetricCloud_0 Label:VolumetricCloud SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=820.000), Max=(X=0.000 Y=0.000 Z=820.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 FolderPath:Lighting FolderGuid:963EC3EB4002CCE9759E2EBA541A873A
+ |   |   |- Guid:FDF894CD448165EF9E844D898DF03CD6 BaseClass: NativeClass:/Script/Engine.DirectionalLight Name:DirectionalLight_0 Label:DirectionalLight SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-4398046511104.000 Y=-4398046511104.000 Z=-4398046511104.000), Max=(X=4398046511104.000 Y=4398046511104.000 Z=4398046511104.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 FolderPath:Lighting FolderGuid:963EC3EB4002CCE9759E2EBA541A873A
+ |   |   |- Guid:FEEBEEF34C9D3B2B356A4C85724EC0FF BaseClass: NativeClass:/Script/Engine.PlayerStart Name:PlayerStart_0 Label:PlayerStart SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=860.000 Y=940.000 Z=0.013), Max=(X=940.000 Y=1020.000 Z=184.013) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |- [+] Clusters:
+ |   |   |- [+] [  0]
+ |   |   |   |- Guid:F98CBB264490409BB3E76C9E70D210D6 BaseClass: NativeClass:/Script/Engine.VolumetricCloud Name:VolumetricCloud_0 Label:VolumetricCloud SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=820.000), Max=(X=0.000 Y=0.000 Z=820.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 FolderPath:Lighting FolderGuid:963EC3EB4002CCE9759E2EBA541A873A
+ |   |   |- [+] [  1]
+ |   |   |   |- Guid:09E6317C4AD46A5E74C9FFADEF538EF2 BaseClass: NativeClass:/Script/Engine.PostProcessVolume Name:PostProcessVolume_0 Label:PostProcessVolume SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=400.000), Max=(X=200.000 Y=200.000 Z=600.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 FolderPath:Lighting FolderGuid:963EC3EB4002CCE9759E2EBA541A873A
+ |   |   |- [+] [  2]
+ |   |   |   |- Guid:D50F9CFC43CBA9AC44BA92ACB3761CAD BaseClass: NativeClass:/Script/Engine.ExponentialHeightFog Name:ExponentialHeightFog_0 Label:ExponentialHeightFog SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-5600.000 Y=-50.000 Z=-6850.000), Max=(X=-5600.000 Y=-50.000 Z=-6850.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 FolderPath:Lighting FolderGuid:963EC3EB4002CCE9759E2EBA541A873A
+ |   |   |- [+] [  3]
+ |   |   |   |- Guid:533C9A0E440E5ADD58343C8A5B4D0921 BaseClass: NativeClass:/Script/Engine.SkyLight Name:SkyLight_1 Label:SkyLight SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=690.000), Max=(X=0.000 Y=0.000 Z=690.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 FolderPath:Lighting FolderGuid:963EC3EB4002CCE9759E2EBA541A873A
+ |   |   |- [+] [  4]
+ |   |   |   |- Guid:44ED670D4B1EDED8D42BA1946E400BF5 BaseClass: NativeClass:/Script/Engine.SkyAtmosphere Name:SkyAtmosphere_0 Label:SkyAtmosphere SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=1020.000), Max=(X=0.000 Y=0.000 Z=1020.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 FolderPath:Lighting FolderGuid:963EC3EB4002CCE9759E2EBA541A873A
+ |   |   |- [+] [  5]
+ |   |   |   |- Guid:31DD84594079F49FBCA02E9609D67BFE BaseClass: NativeClass:/Script/Engine.WorldDataLayers Name:WorldDataLayers Label:WorldDataLayers SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [  6]
+ |   |   |   |- Guid:FEEBEEF34C9D3B2B356A4C85724EC0FF BaseClass: NativeClass:/Script/Engine.PlayerStart Name:PlayerStart_0 Label:PlayerStart SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=860.000 Y=940.000 Z=0.013), Max=(X=940.000 Y=1020.000 Z=184.013) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [  7]
+ |   |   |   |- Guid:FDF894CD448165EF9E844D898DF03CD6 BaseClass: NativeClass:/Script/Engine.DirectionalLight Name:DirectionalLight_0 Label:DirectionalLight SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-4398046511104.000 Y=-4398046511104.000 Z=-4398046511104.000), Max=(X=4398046511104.000 Y=4398046511104.000 Z=4398046511104.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 FolderPath:Lighting FolderGuid:963EC3EB4002CCE9759E2EBA541A873A
+ |   |   |- [+] [  8]
+ |   |   |   |- Guid:A13021204AE45CC2F0128F8EC996B593 BaseClass:/Game/Blueprints/TriggerWin.TriggerWin_C NativeClass:/Script/Engine.Actor Name:TriggerWin_C_UAID_F875A4315763304F01_2146477033 Label:TriggerWin SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2564.000 Y=1544.000 Z=-46.000), Max=(X=2756.000 Y=1736.000 Z=146.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [  9]
+ |   |   |   |- Guid:8B902EB5412193B705B7EFB031C31823 BaseClass:/Game/Blueprints/Objects/Muud.Muud_C NativeClass:/Script/Engine.Actor Name:Muud_C_UAID_8C8CAAAC26B83D4F01_1178665323 Label:Muud SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-2.047 Y=417.578 Z=-120.000), Max=(X=4562.047 Y=2542.422 Z=-20.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [ 10]
+ |   |   |   |- Guid:11DD3D9E40DFC688DD7AD3B470257D9A BaseClass:/Game/Blueprints/Objects/Grass.Grass_C NativeClass:/Script/Engine.Actor Name:NewBlueprint_C_UAID_8C8CAAAC26B83D4F01_1309180329 Label:NewBlueprint6 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1099.591 Y=-315.506 Z=-151.187), Max=(X=2280.409 Y=1035.506 Z=91.187) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [ 11]
+ |   |   |   |- Guid:064E5FAC4ED76359DFD329AE65115B3C BaseClass:/Game/Blueprints/Objects/Grass.Grass_C NativeClass:/Script/Engine.Actor Name:NewBlueprint_C_UAID_8C8CAAAC26B83D4F01_1498292338 Label:NewBlueprint7 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=701.183 Y=1424.746 Z=-161.187), Max=(X=2058.817 Y=2615.254 Z=81.187) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [ 12]
+ |   |   |   |- Guid:15410C874AA399C94B3651AEE1EF67B2 BaseClass:/Game/Blueprints/Objects/Grass.Grass_C NativeClass:/Script/Engine.Actor Name:Grass_C_UAID_8C8CAAAC26B83D4F01_1547699340 Label:Grass SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=116.932 Y=-749.082 Z=-57.500), Max=(X=6103.068 Y=2469.082 Z=17.500) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [ 13]
+ |   |   |   |- Guid:A787583E4DF135C63B8B239832F96BCA BaseClass:/Game/Blueprints/Objects/Grass.Grass_C NativeClass:/Script/Engine.Actor Name:Grass_C_UAID_8C8CAAAC26B83D4F01_1567967341 Label:Grass2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-783.068 Y=750.918 Z=-57.500), Max=(X=5203.068 Y=3969.082 Z=17.500) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [ 14]
+ |   |   |   |- Guid:B632EDDE4AF1EBA84074098EA89190F7 BaseClass:/Game/Blueprints/Objects/Grass.Grass_C NativeClass:/Script/Engine.Actor Name:NewBlueprint_C_UAID_8C8CAAAC26B83D4F01_1617424342 Label:NewBlueprint8 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=3017.398 Y=316.570 Z=-151.187), Max=(X=4322.602 Y=1723.430 Z=91.187) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [ 15]
+ |   |   |   |- Guid:0A6538564B64B2106476BFAA2E1FB456 BaseClass:/Game/Blueprints/Objects/Grass.Grass_C NativeClass:/Script/Engine.Actor Name:NewBlueprint_C_UAID_8C8CAAAC26B83D4F01_1627487343 Label:NewBlueprint9 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-465.506 Y=1193.823 Z=-178.000), Max=(X=885.506 Y=2386.177 Z=98.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |- ContainerInstances:
+ |- [+] MainContainer:
+ |   |-        ID: 0x0000000000000000
+ |   |-    Bounds: IsValid=false, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000)
+ |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |   |- Container: /Game/Scenes/Bartosz
+----------------------------------------------------------------------------------------------------------------
+Bartosz - Persistent Level
+----------------------------------------------------------------------------------------------------------------
+Always loaded Actor Count: 58 
+
+----------------------------------------------------------------------------------------------------------------
+Bartosz - Runtime Spatial Hash - Streaming Grid - MainGrid
+----------------------------------------------------------------------------------------------------------------
+            Origin: X=0.000 Y=0.000 Z=0.000
+         Cell Size: 12800
+      World Bounds: IsValid=false, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000)
+     Loading Range: 25600.00
+Block Slow Loading: No
+ ClientOnlyVisible: No
+
+[+] Grid Levels: 1
+ |- Level  0: Cell Count    0 | Cell Size   12800 | Actor Count    0 (0.0%)
+
+[+] Content of Grid Level 0
+
