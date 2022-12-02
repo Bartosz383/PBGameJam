@@ -1881,3 +1881,50 @@ LogConfig: CVar [[framepro.ScopeMinTimeMicroseconds:10]] deferred - dummy variab
 [2022.12.02-13.58.16:639][669]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2022.12.02-13.58.16:642][669]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
 [2022.12.02-13.58.16:683][670]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2022.12.02-14.00.29:149][552]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2022.12.02-14.00.29:153][552]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Scenes/Bartosz/2/RQ/PPVJW13NNMTH2B84NI5N81_Auto3
+[2022.12.02-14.00.29:153][552]LogSavePackage: Moving '../../../../../Repozytoria i inne takie/PBGameJam/MyProject/Saved/PPVJW13NNMTH2B84NI5N81_Auto378801ED54D0060775CA47C88D24928E7.tmp' to '../../../../../Repozytoria i inne takie/PBGameJam/MyProject/Saved/Autosaves/Game/__ExternalActors__/Scenes/Bartosz/2/RQ/PPVJW13NNMTH2B84NI5N81_Auto3.uasset'
+[2022.12.02-14.00.29:155][552]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Scenes/Bartosz/9/L5/0D7U2GSES1SG78SO8IYSP8_Auto3
+[2022.12.02-14.00.29:155][552]LogSavePackage: Moving '../../../../../Repozytoria i inne takie/PBGameJam/MyProject/Saved/0D7U2GSES1SG78SO8IYSP8_Auto3B1D54EE1413BA99AD79E72A6E9538E63.tmp' to '../../../../../Repozytoria i inne takie/PBGameJam/MyProject/Saved/Autosaves/Game/__ExternalActors__/Scenes/Bartosz/9/L5/0D7U2GSES1SG78SO8IYSP8_Auto3.uasset'
+[2022.12.02-14.00.29:156][552]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Scenes/Bartosz/C/8X/F9FJ3N0NITOHQZM9F5MC1V_Auto3
+[2022.12.02-14.00.29:156][552]LogSavePackage: Moving '../../../../../Repozytoria i inne takie/PBGameJam/MyProject/Saved/F9FJ3N0NITOHQZM9F5MC1V_Auto3205C9C384656D75B9D39E08311749342.tmp' to '../../../../../Repozytoria i inne takie/PBGameJam/MyProject/Saved/Autosaves/Game/__ExternalActors__/Scenes/Bartosz/C/8X/F9FJ3N0NITOHQZM9F5MC1V_Auto3.uasset'
+[2022.12.02-14.00.29:157][552]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Scenes/Bartosz/D/5S/WDN7QD433VRA98EFSLJONS_Auto3
+[2022.12.02-14.00.29:157][552]LogSavePackage: Moving '../../../../../Repozytoria i inne takie/PBGameJam/MyProject/Saved/WDN7QD433VRA98EFSLJONS_Auto3AE25213C4F666EE64ED061BB787E846F.tmp' to '../../../../../Repozytoria i inne takie/PBGameJam/MyProject/Saved/Autosaves/Game/__ExternalActors__/Scenes/Bartosz/D/5S/WDN7QD433VRA98EFSLJONS_Auto3.uasset'
+[2022.12.02-14.00.29:158][552]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Scenes/Bartosz' took 0.054
+[2022.12.02-14.00.29:158][552]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.054
+[2022.12.02-14.00.29:158][552]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Graphic/Models/LAtarnia_Cylinder] ([1] browsable assets)...
+[2022.12.02-14.00.29:241][552]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Graphic/Models/LAtarnia_Cylinder.LAtarnia_Cylinder]
+[2022.12.02-14.00.29:241][552]OBJ SavePackage: Finished generating thumbnails for package [/Game/Graphic/Models/LAtarnia_Cylinder]
+[2022.12.02-14.00.29:244][552]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Graphic/Models/LAtarnia_Cylinder_Auto3
+[2022.12.02-14.00.29:244][552]LogSavePackage: Moving '../../../../../Repozytoria i inne takie/PBGameJam/MyProject/Saved/LAtarnia_Cylinder_Auto3172DAEAF4A9DA49D52C2BC8AD4273D7B.tmp' to '../../../../../Repozytoria i inne takie/PBGameJam/MyProject/Saved/Autosaves/Game/Graphic/Models/LAtarnia_Cylinder_Auto3.uasset'
+[2022.12.02-14.00.29:245][552]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Graphic/Models/LAtarnia_Cylinder_001] ([1] browsable assets)...
+[2022.12.02-14.00.29:288][552]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Graphic/Models/LAtarnia_Cylinder_001.LAtarnia_Cylinder_001]
+[2022.12.02-14.00.29:288][552]OBJ SavePackage: Finished generating thumbnails for package [/Game/Graphic/Models/LAtarnia_Cylinder_001]
+[2022.12.02-14.00.29:291][552]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Graphic/Models/LAtarnia_Cylinder_001_Auto3
+[2022.12.02-14.00.29:291][552]LogSavePackage: Moving '../../../../../Repozytoria i inne takie/PBGameJam/MyProject/Saved/LAtarnia_Cylinder_001_Auto324692A8745F550ADC0B25AA386A76B5D.tmp' to '../../../../../Repozytoria i inne takie/PBGameJam/MyProject/Saved/Autosaves/Game/Graphic/Models/LAtarnia_Cylinder_001_Auto3.uasset'
+[2022.12.02-14.00.29:292][552]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Graphic/Models/Domek_dach] ([1] browsable assets)...
+[2022.12.02-14.00.29:334][552]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Graphic/Models/Domek_dach.Domek_dach]
+[2022.12.02-14.00.29:334][552]OBJ SavePackage: Finished generating thumbnails for package [/Game/Graphic/Models/Domek_dach]
+[2022.12.02-14.00.29:338][552]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Graphic/Models/Domek_dach_Auto3
+[2022.12.02-14.00.29:338][552]LogSavePackage: Moving '../../../../../Repozytoria i inne takie/PBGameJam/MyProject/Saved/Domek_dach_Auto3CE95E399462755EE58A3E59874A5FC40.tmp' to '../../../../../Repozytoria i inne takie/PBGameJam/MyProject/Saved/Autosaves/Game/Graphic/Models/Domek_dach_Auto3.uasset'
+[2022.12.02-14.00.29:339][552]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Graphic/Models/Domek_house] ([1] browsable assets)...
+[2022.12.02-14.00.29:384][552]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Graphic/Models/Domek_house.Domek_house]
+[2022.12.02-14.00.29:384][552]OBJ SavePackage: Finished generating thumbnails for package [/Game/Graphic/Models/Domek_house]
+[2022.12.02-14.00.29:387][552]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Graphic/Models/Domek_house_Auto3
+[2022.12.02-14.00.29:387][552]LogSavePackage: Moving '../../../../../Repozytoria i inne takie/PBGameJam/MyProject/Saved/Domek_house_Auto342F995B046C0F3A200A0C7A9BF387D06.tmp' to '../../../../../Repozytoria i inne takie/PBGameJam/MyProject/Saved/Autosaves/Game/Graphic/Models/Domek_house_Auto3.uasset'
+[2022.12.02-14.00.29:388][552]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Graphic/Models/Domek_Windows] ([1] browsable assets)...
+[2022.12.02-14.00.29:423][552]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Graphic/Models/Domek_Windows.Domek_Windows]
+[2022.12.02-14.00.29:423][552]OBJ SavePackage: Finished generating thumbnails for package [/Game/Graphic/Models/Domek_Windows]
+[2022.12.02-14.00.29:426][552]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Graphic/Models/Domek_Windows_Auto3
+[2022.12.02-14.00.29:426][552]LogSavePackage: Moving '../../../../../Repozytoria i inne takie/PBGameJam/MyProject/Saved/Domek_Windows_Auto312B5CAD24F2125D82C5F3B94BDFB1458.tmp' to '../../../../../Repozytoria i inne takie/PBGameJam/MyProject/Saved/Autosaves/Game/Graphic/Models/Domek_Windows_Auto3.uasset'
+[2022.12.02-14.00.29:427][552]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Graphic/Models/Domek_Drzwi] ([1] browsable assets)...
+[2022.12.02-14.00.29:436][552]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Graphic/Models/Domek_Drzwi.Domek_Drzwi]
+[2022.12.02-14.00.29:436][552]OBJ SavePackage: Finished generating thumbnails for package [/Game/Graphic/Models/Domek_Drzwi]
+[2022.12.02-14.00.29:439][552]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Graphic/Models/Domek_Drzwi_Auto3
+[2022.12.02-14.00.29:439][552]LogSavePackage: Moving '../../../../../Repozytoria i inne takie/PBGameJam/MyProject/Saved/Domek_Drzwi_Auto3E98A31014EDD98CAC8B456ACAF32EC84.tmp' to '../../../../../Repozytoria i inne takie/PBGameJam/MyProject/Saved/Autosaves/Game/Graphic/Models/Domek_Drzwi_Auto3.uasset'
+[2022.12.02-14.00.29:439][552]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Graphic/Models/Domek_Fundament] ([1] browsable assets)...
+[2022.12.02-14.00.29:449][552]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Graphic/Models/Domek_Fundament.Domek_Fundament]
+[2022.12.02-14.00.29:449][552]OBJ SavePackage: Finished generating thumbnails for package [/Game/Graphic/Models/Domek_Fundament]
+[2022.12.02-14.00.29:452][552]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Graphic/Models/Domek_Fundament_Auto3
+[2022.12.02-14.00.29:452][552]LogSavePackage: Moving '../../../../../Repozytoria i inne takie/PBGameJam/MyProject/Saved/Domek_Fundament_Auto3C6EDD8B245FEEFCC8B18CCBC9F2843CF.tmp' to '../../../../../Repozytoria i inne takie/PBGameJam/MyProject/Saved/Autosaves/Game/Graphic/Models/Domek_Fundament_Auto3.uasset'
+[2022.12.02-14.00.29:452][552]LogFileHelpers: Auto-saving content packages took 0.294
